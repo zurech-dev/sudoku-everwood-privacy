@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**App:** [APP NAME]
-**Developer:** [YOUR NAME]
-**Effective date:** [DATE]
-**Contact:** [CONTACT EMAIL]
+**App:** Sudoku Everwood
+**Developer:** Dvales tech
+**Effective date:** October 13, 2026
+**Contact:** dvalestech@gmail.com
 
 ## Summary
-[APP NAME] is an offline Sudoku game. It does not collect, transmit or share
-any personal information.
+Sudoku Everwood is an offline Sudoku game. It does not collect, transmit or
+share any personal information.
 
 ## Information we collect
 None. The app has no accounts, no analytics, no advertising and no
@@ -36,4 +36,4 @@ If the app changes in a way that affects your privacy (for example, by adding
 ads or purchases), this policy will be updated before the change is released.
 
 ## Contact
-Questions about this policy: [CONTACT EMAIL]
+Questions about this policy: dvalestech@gmail.com
